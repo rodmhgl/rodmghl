@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodmhgl&theme=github-dark-dimmed&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodmhgl&theme=transparent&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats)
